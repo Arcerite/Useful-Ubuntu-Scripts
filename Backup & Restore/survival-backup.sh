@@ -4,7 +4,7 @@
 
 set -euo pipefail
 
-USERNAME='arcerite'
+USERNAME='YOUR_USERNAME_HERE'
 BACKUP_DIR="$HOME/survival-backup"
 LOGFILE="$HOME/personal_logs/survival-backup.log"
 
